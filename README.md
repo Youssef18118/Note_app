@@ -8,6 +8,8 @@ A simple and intuitive **Note-taking** application built using **Flutter** with 
 - **Hive Database**: All notes are stored locally using the Hive database for quick and secure access.
 - **Responsive Design**: Adapts seamlessly to different screen sizes for both mobile and tablet devices.
 
+## Video Link
+LinkedIn Demo Video: https://www.linkedin.com/posts/youssif-ezzat-b8a453175_flutter-noteapp-mobiledevelopment-activity-7239568617103609856-7rU5?utm_source=share&utm_medium=member_desktop
 
 ## Getting Started
 
